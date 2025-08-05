@@ -1,5 +1,9 @@
 💰 Tip Calculator - Python CLI App
-A beginner-friendly Tip Calculator built with Python 🐍. This command-line utility helps users calculate the tip amount on a bill and evenly split the total among multiple people. Great for learning basic Python concepts such as variables, input/output, type casting, and arithmetic operations.
+A beginner-friendly Tip Calculator built with Python 🐍. 
+This command-line utility helps users calculate the tip amount on a bill and evenly split the total among multiple people. Great for learning basic Python concepts such as variables, input/output, type casting, and arithmetic operations.
+
+
+---
 
 📌 Table of Contents
 
